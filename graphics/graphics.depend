@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1490076907 source:c:\users\user\documents\graphics\kdj.c
+	<stdio.h>
+	<conio.h>
+	<graphics.h>
+	<dos.h>
+	<stdlib.h>
+	<time.h>
+
+1489765552 c:\program files\codeblocks-ep\sdk\winbgim\include\graphics.h
+	<windows.h>
+	<limits.h>
+	<sstream>
+
