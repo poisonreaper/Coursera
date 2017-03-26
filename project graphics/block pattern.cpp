@@ -27,7 +27,7 @@ int main()
   {
 
 
-    for (c = 0; c <= k; c+=block_size)
+    for (c; c >=k; c-=block_size)
     {setfillstyle(SOLID_FILL,rand()%15);
       bar(c,k,c+block_size,k+block_size);
     }
